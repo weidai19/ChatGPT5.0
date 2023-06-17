@@ -1,0 +1,318 @@
+,@id,@type,@lat,@lon,name
+0,2330248,relation,52.2469448,13.898032,"Philadelphia, Kreuzung"
+1,2629927,relation,39.9899104,-75.2497925,Overbrook
+2,4744254,relation,39.9560769,-75.1822083,Philadelphia 30th Street Station
+3,7929726,relation,39.9053479,-75.1731515,NRG
+4,7929727,relation,39.9511225,-75.1970778,37th Street
+5,7929728,relation,39.9549771,-75.1842805,30th Street
+6,7929732,relation,39.9522166,-75.161329,13th Street
+7,7929735,relation,39.9517755,-75.1583384,11th Street
+8,7929737,relation,39.9237807,-75.1694974,Snyder
+9,7929738,relation,39.9298429,-75.1685395,Tasker-Morris
+10,7929741,relation,39.9559057,-75.1532615,Chinatown
+11,7929744,relation,39.9569312,-75.1626045,Race-Vine
+12,7929753,relation,39.9539101,-75.1675345,Suburban Station
+13,7929754,relation,39.9533763,-75.1715899,19th Street
+14,7929757,relation,39.9571584,-75.2019511,40th Street
+15,7929943,relation,39.9558811,-75.1915056,34th Street
+16,7929945,relation,39.9540086,-75.1766675,22nd Street
+17,7939405,relation,39.9539207,-75.1946152,36th Street
+18,7950690,relation,39.9511321,-75.153548,8th & Market (PATCO)
+19,7950691,relation,39.9510289,-75.1536083,8th Street
+20,7950735,relation,39.9499327,-75.1441799,2nd Street
+21,7950741,relation,39.9505052,-75.148885,5th Street
+22,7950754,relation,39.9526609,-75.1655756,15th Street
+23,7950755,relation,39.9586524,-75.2140084,46th Street
+24,7950756,relation,39.9600015,-75.2248665,52nd Street
+25,7950758,relation,39.9627074,-75.2467017,63rd Street
+26,7962384,relation,39.9619741,-75.240803,60th Street
+27,7963431,relation,39.948256,-75.1642186,Walnut-Locust
+28,7963446,relation,39.952082,-75.1638588,City Hall (BSL)
+29,7975506,relation,39.9888601,-75.1272951,Huntingdon
+30,7975507,relation,39.9915719,-75.122438,Somerset
+31,7975510,relation,39.9964519,-75.1134968,Allegheny (MFL)
+32,7975511,relation,40.000267,-75.1065122,Tioga
+33,7975512,relation,40.0059643,-75.0962119,Erie-Torresdale
+34,7975513,relation,40.010601,-75.0889629,Church
+35,7975516,relation,40.0164202,-75.084067,Arrott Transportation Center
+36,7981430,relation,40.0228599,-75.0781,Frankford Transportation Center
+37,8010431,relation,40.0015939,-75.1528707,Allegheny (BSL)
+38,8010436,relation,39.9786616,-75.157829,Cecil B. Moore
+39,8010437,relation,39.9714695,-75.1594076,Girard (BSL)
+40,8010440,relation,39.9663274,-75.1604466,Fairmount
+41,8010441,relation,39.9624424,-75.1614364,Spring Garden (BSL)
+42,8010442,relation,39.9485234,-75.1669992,15th-16th & Locust
+43,8010443,relation,39.9441505,-75.1653966,Lombard-South
+44,8010445,relation,39.936184,-75.1671287,Ellsworth-Federal
+45,8186452,relation,39.9478788,-75.1617013,12th-13th & Locust
+46,8589496,relation,40.0757741,-75.0831797,Fox Chase
+47,8591070,relation,40.063736,-75.08675,Ryers
+48,8591156,relation,40.0335108,-75.1224507,Olney
+49,8592860,relation,40.1306046,-75.0120941,Somerton
+50,9214361,relation,40.0341591,-75.2355583,Ivy Ridge
+51,10132049,relation,40.04179,-75.1366514,Fern Rock Transportation Center (BSL)
+52,10289554,relation,40.0245726,-75.1478636,Wyoming
+53,10415121,relation,39.9481303,-75.189991,University City
+54,10419599,relation,39.981655,-75.1495089,Temple University
+55,10419605,relation,40.0540967,-74.9847256,Torresdale
+56,10419606,relation,40.0233264,-75.0390377,Tacony
+57,10419607,relation,40.0326562,-75.0238248,Holmesburg Junction
+58,10419608,relation,40.0107096,-75.069878,Bridesburg
+59,10419609,relation,39.9972245,-75.1555124,North Philadelphia (Rail)
+60,10419610,relation,39.9922283,-75.1538957,North Broad
+61,10424242,relation,40.0405992,-75.1348336,Fern Rock Transportation Center (Regional Rail)
+62,10424243,relation,40.0224118,-75.1599905,Wayne Junction
+63,10424563,relation,39.8791509,-75.2399973,PHL Airport Terminals E & F
+64,10424564,relation,39.8772586,-75.2416214,PHL Airport Terminals C & D
+65,10424565,relation,39.8763055,-75.2449688,PHL Airport Terminal B
+66,10424566,relation,39.876029,-75.2461565,PHL Airport Terminal A
+67,10424567,relation,39.8916858,-75.2449563,Eastwick
+68,10424570,relation,39.9906679,-75.2254832,Wynnefield Avenue
+69,10424982,relation,39.943598,-75.2164835,49th Street
+70,10424983,relation,39.944934,-75.2383249,Angora
+71,10425738,relation,40.0703558,-75.2111206,Highland
+72,10425739,relation,40.0658343,-75.2044827,Saint Martins
+73,10425740,relation,40.0575605,-75.194983,Allen Lane
+74,10425741,relation,40.0513873,-75.1917223,Carpenter
+75,10425742,relation,40.0423062,-75.1901688,Upsal
+76,10425743,relation,40.03521,-75.1870038,Tulpehocken
+77,10425744,relation,40.0298616,-75.1809019,Chelten Avenue
+78,10425745,relation,40.0232922,-75.1780087,Queen Lane
+79,10425746,relation,40.0762116,-75.2085275,Chestnut Hill West
+80,10426052,relation,40.0361836,-75.1614307,Wister
+81,10426053,relation,40.0378639,-75.1718511,Germantown
+82,10426054,relation,40.0510645,-75.1715597,Washington Lane
+83,10426055,relation,40.0605217,-75.1786839,Stenton
+84,10426056,relation,40.0629049,-75.1852505,Sedgwick
+85,10426057,relation,40.065258,-75.1910388,Mount Airy
+86,10426058,relation,40.0735874,-75.1969031,Wyndmoor
+87,10426059,relation,40.07745,-75.2017968,Gravers
+88,10426060,relation,40.081023,-75.2070287,Chestnut Hill East
+89,10427133,relation,40.0267946,-75.2249871,Manayunk
+90,10427134,relation,40.0165187,-75.2100348,Wissahickon
+91,10427135,relation,40.0114414,-75.1921822,East Falls
+92,10427136,relation,40.0037253,-75.1650333,Allegheny (Regional Rail)
+93,10428011,relation,40.1278791,-75.0207453,Forest Hills
+94,10432815,relation,39.9526316,-75.1581279,Jefferson Station
+95,10678914,relation,39.9552178,-75.1891576,33rd Street
+96,10678916,relation,39.9494955,-75.2035159,40th Street Portal
+97,10685135,relation,39.9439678,-75.2463388,Baltimore Avenue & 61st Street
+98,10685136,relation,39.8994864,-75.2392904,Island Avenue & Suffolk Avenue
+99,10685137,relation,39.9839032,-75.2462618,Malvern Avenue & 63rd Street
+100,10685138,relation,39.9555402,-75.1940367,36th Street Portal
+101,10685254,relation,39.9689174,-75.1362314,Girard (MFL)
+102,10685255,relation,39.9785366,-75.1335755,Berks
+103,10685256,relation,39.9852048,-75.1321246,York-Dauphin
+104,10685257,relation,39.9604836,-75.1404225,Spring Garden (MFL)
+105,10685258,relation,39.9609916,-75.2328601,56th Street
+106,10688596,relation,39.9516073,-75.1534367,8th & Market (BSL)
+107,10688930,relation,39.9169429,-75.1710579,Oregon
+109,10689388,relation,40.0387964,-75.1447438,Olney Transportation Center
+110,10689389,relation,40.0092425,-75.1512108,Erie
+111,10689390,relation,39.9946565,-75.1544007,North Philadelphia (BSL)
+112,10691605,relation,40.0298133,-75.1467163,Logan
+113,10691606,relation,40.0175785,-75.1493892,Hunting Park
+114,10691607,relation,39.9870926,-75.1560399,Susquehanna-Dauphin
+115,10693503,relation,39.9472631,-75.1568597,9th-10th & Locust
+116,10702993,relation,39.9754535,-75.2454431,Lansdowne Avenue & 63rd Street
+117,10702994,relation,39.9763149,-75.2367908,Lansdowne Avenue & 58th Street
+118,10702995,relation,39.9761168,-75.2385527,Lansdowne Avenue & 59th Street
+119,10702996,relation,39.9759336,-75.2402383,Lansdowne Avenue & 60th Street
+120,10702997,relation,39.9757573,-75.2417761,Lansdowne Avenue & 61st Street
+121,10702998,relation,39.9755621,-75.2435523,Lansdowne Avenue & 62nd Street
+122,10703001,relation,39.9783304,-75.2461128,63rd Street & Jefferson Street
+123,10703002,relation,39.9807771,-75.2465739,63rd Street & Lebanon Avenue
+124,10703003,relation,39.9573552,-75.2019608,40th Street & Market Street
+125,10703004,relation,39.9580397,-75.2018884,40th Street & Filbert Street
+126,10705605,relation,39.9628125,-75.2016642,Lancaster Avenue & Haverford Avenue
+127,10705606,relation,39.9638372,-75.2033603,Lancaster Avenue & Wallace Street
+128,10705607,relation,39.9619633,-75.2001418,Lancaster Avenue & Spring Garden Street
+129,10705608,relation,39.9632299,-75.2025599,Lancaster Avenue & 40th Street
+130,10705609,relation,39.9651013,-75.2054778,Lancaster Avenue & 41st Street
+131,10705610,relation,39.9602728,-75.1968917,Lancaster Avenue & 38th Street
+132,10705611,relation,39.9595674,-75.1954366,Lancaster Avenue & Powelton Avenue
+133,10705612,relation,39.9585189,-75.1937382,Lancaster Avenue & 36th Street
+134,10705614,relation,39.9561774,-75.19416,36th Street & Market Street
+135,10705708,relation,39.9458295,-75.2082487,Woodland Avenue & 43rd Street
+136,10705709,relation,39.9453011,-75.2087068,Woodland Avenue & 45th Street
+137,10705710,relation,39.9444256,-75.2097579,Woodland Avenue & 46th Street
+138,10705711,relation,39.9421244,-75.2116862,Woodland Avenue & 48th Street
+139,10705713,relation,39.9408795,-75.2125664,Woodland Avenue & 49th Street
+140,10705714,relation,39.9399778,-75.2138547,Woodland Avenue & 50th Street
+141,10705715,relation,39.9498038,-75.2071643,Baltimore Avenue & 42nd Street
+142,10705716,relation,39.948486,-75.2070852,Chester Avenue & 42nd Street
+143,10705717,relation,39.9468438,-75.2069833,Woodland Avenue & 42nd Street
+144,10705904,relation,39.9289657,-75.2353872,Kingsessing Avenue & Cemetery Avenue
+145,10705905,relation,39.9141878,-75.2417389,Elmwood Avenue & 73rd Street
+146,11328753,relation,39.965031,-75.1343146,Frankford Avenue & Delaware Avenue
+147,11328754,relation,39.9661131,-75.1344205,Frankford Avenue & Richmond Street
+148,11328755,relation,39.9687376,-75.1342686,Girard Avenue & Frankford Avenue
+149,11328756,relation,39.968896,-75.1362239,Girard Avenue & Front Street
+150,11328757,relation,39.9695063,-75.1395847,Girard Avenue & 2nd Street
+151,11328758,relation,39.9697661,-75.141532,Girard Avenue & 3rd Street
+152,11328759,relation,39.9699623,-75.1428219,Girard Avenue & 4th Street
+153,11328760,relation,39.9702005,-75.1450282,Girard Avenue & 5th Street
+154,11328761,relation,39.9704511,-75.1481574,Girard Avenue & 7th Street
+155,11328762,relation,39.9705012,-75.1499707,Girard Avenue & 8th Street
+156,11328763,relation,39.9707898,-75.1541598,Girard Avenue & 11th Street
+157,11328764,relation,39.9709934,-75.1557371,Girard Avenue & 12th Street
+158,11328765,relation,39.9714634,-75.15934,Girard Avenue & Broad Street
+159,11328766,relation,39.9716906,-75.1611343,Girard Avenue & 16th Street
+160,11328767,relation,39.9720997,-75.1642825,Girard Avenue & 17th Street
+161,11328768,relation,39.9723868,-75.166498,Girard Avenue & Ridge Avenue
+162,11328769,relation,39.9725052,-75.1674511,Girard Avenue & 19th Street
+163,11328770,relation,39.9727084,-75.1690136,Girard Avenue & 20th Street
+164,11328771,relation,39.972881,-75.1703191,Girard Avenue & Corinthian Avenue
+165,11328772,relation,39.9724064,-75.1756969,South College Avenue & 24th Street
+166,11328773,relation,39.9724933,-75.1778137,Poplar Street & 25th Street
+167,11328775,relation,39.9727674,-75.1791427,26th Street & Poplar Street
+168,11328776,relation,39.9739761,-75.1788252,Girard Avenue & 26th Street
+169,11328777,relation,39.9741865,-75.1804687,Girard Avenue & 27th Street
+170,11328778,relation,39.9743715,-75.1818654,Girard Avenue & 28th Street
+171,11328779,relation,39.974576,-75.1834873,Girard Avenue & 29th Street
+172,11328780,relation,39.974979,-75.1866669,Girard Avenue & 31st Street
+173,11328781,relation,39.9751637,-75.1878483,Girard Avenue & 33rd Street
+174,11328782,relation,39.9749665,-75.1967531,Girard Avenue & 34th Street
+175,11328783,relation,39.9744142,-75.2017454,Girard Avenue & 39th Street
+176,11328784,relation,39.9740786,-75.204744,Girard Avenue & 40th Street
+177,11328785,relation,39.9738976,-75.2064134,Girard Avenue & 41st Street
+178,11328786,relation,39.9736225,-75.2089014,Girard Avenue & 42nd Street
+179,11328787,relation,39.9732903,-75.2118904,Girard Avenue & Belmont Avenue
+180,11328788,relation,39.9728013,-75.2163111,Girard Avenue & Merion Avenue
+181,11328789,relation,39.9730412,-75.2187971,Girard Avenue & Lancaster Avenue
+182,11328791,relation,39.9719121,-75.2236711,Girard Avenue & 51st Street
+183,11328792,relation,39.9714584,-75.2258186,Girard Avenue & 52nd Street
+184,11328793,relation,39.9711186,-75.2287467,Girard Avenue & 54th Street
+185,11328794,relation,39.9706954,-75.2325876,Girard Avenue & 56th Street
+186,11328795,relation,39.970513,-75.2342001,Girard Avenue & 57th Street
+187,11328796,relation,39.9701543,-75.2374589,Girard Avenue & 59th Street
+188,11328797,relation,39.9699697,-75.239237,Girard Avenue & 60th Street
+189,11328798,relation,39.9698534,-75.2412695,Girard Avenue & 61st Street
+190,11328799,relation,39.9700971,-75.2432468,Girard Avenue & 62nd Street
+191,11328800,relation,39.970889,-75.2407798,Haverford Avenue & 61st Street
+192,11328801,relation,39.9716374,-75.2426712,Haverford Avenue & 62nd Street
+193,11328802,relation,39.9718779,-75.2446087,Haverford Avenue & 63rd Street
+194,11328803,relation,39.9702807,-75.2447247,Girard Avenue & 63rd Street
+195,11329115,relation,39.9708533,-75.2148217,Lancaster Avenue & Wyalusing Avenue
+196,11329116,relation,39.9677007,-75.2096665,Lancaster Avenue & 43rd Street
+197,11329117,relation,39.9686782,-75.2112393,Lancaster Avenue & 44th Street
+198,11329118,relation,39.9695437,-75.21264,Lancaster Avenue & 45th Street
+199,11329119,relation,39.9663892,-75.207549,Lancaster Avenue & 42nd Street
+200,11329120,relation,39.9716193,-75.2160831,Lancaster Avenue & 47th Street
+201,11329121,relation,39.9722438,-75.2170239,Lancaster Avenue & 48th Street
+202,11329122,relation,39.9737513,-75.2196033,Lancaster Avenue & 49th Street
+203,11329123,relation,39.9752256,-75.2224848,Lancaster Avenue & 50th Street
+204,11329124,relation,39.9770335,-75.226371,Lancaster Avenue & 52nd Street
+205,11329125,relation,39.9773281,-75.2273187,Lansdowne Avenue & Lancaster Avenue
+206,11329126,relation,39.9764794,-75.2353256,Lansdowne Avenue & 57th Street
+207,11329127,relation,39.9766484,-75.2337145,Lansdowne Avenue & 56th Street
+208,11329128,relation,39.9768691,-75.2317934,Lansdowne Avenue & 55th Street
+209,11329129,relation,39.9770821,-75.2298527,Lansdowne Avenue & 54th Street
+210,11332289,relation,39.9443799,-75.2443525,Baltimore Avenue & 60th Street
+211,11332290,relation,39.9453356,-75.2417769,Baltimore Avenue & 59th Street
+212,11332291,relation,39.9458852,-75.2402203,Baltimore Avenue & 58th Street
+213,11332292,relation,39.9464322,-75.2375682,Baltimore Avenue & 57th Street
+214,11332293,relation,39.9468464,-75.2357186,Baltimore Avenue & 56th Street
+215,11332294,relation,39.9473584,-75.2336275,Baltimore Avenue & 55th Street
+216,11332295,relation,39.9477801,-75.2312448,Baltimore Avenue & 54th Street
+217,11332296,relation,39.947786,-75.2294676,Baltimore Avenue & 53rd Street
+218,11332297,relation,39.9477789,-75.2253293,Baltimore Avenue & 51st Street
+219,11332298,relation,39.9479579,-75.2232748,Baltimore Avenue & 50th Street
+220,11332299,relation,39.948178,-75.2212438,Baltimore Avenue & 49th Street
+221,11332300,relation,39.9486266,-75.2170765,Baltimore Avenue & 47th Street
+222,11332301,relation,39.9488346,-75.2150096,Baltimore Avenue & 46th Street
+223,11332302,relation,39.9490776,-75.2129077,Baltimore Avenue & 45th Street
+224,11332303,relation,39.9492592,-75.2112692,Baltimore Avenue & 44th Street
+225,11332304,relation,39.9495622,-75.2092531,Baltimore Avenue & 43rd Street
+226,11332305,relation,39.9483953,-75.2192321,Baltimore Avenue & 48th Street
+227,11332306,relation,39.9477883,-75.2275477,Baltimore Avenue & 52nd Street
+228,11333311,relation,39.9172061,-75.24632,Woodland Avenue & Island Avenue
+229,11333312,relation,39.9185326,-75.2443871,Woodland Avenue & 72nd Street
+230,11333313,relation,39.9194984,-75.2430079,Woodland Avenue & 71st Street
+231,11333314,relation,39.9205933,-75.2414423,Woodland Avenue & 70th Street
+232,11333315,relation,39.9215606,-75.2400672,Woodland Avenue & 69th Street
+233,11333316,relation,39.9227286,-75.2384024,Woodland Avenue & 68th Street
+234,11333317,relation,39.9237838,-75.2369034,Woodland Avenue & 67th Street
+235,11333318,relation,39.9247163,-75.235576,Woodland Avenue & 66th Street
+236,11333319,relation,39.9255849,-75.2343376,Woodland Avenue & 65th Street
+237,11333320,relation,39.9264699,-75.2330792,Woodland Avenue & 64th Street
+238,11333321,relation,39.9274189,-75.2317268,Woodland Avenue & 63rd Street
+239,11333322,relation,39.9281237,-75.2307231,Woodland Avenue & 62nd Street
+240,11333323,relation,39.9291785,-75.2292182,Woodland Avenue & 61st Street
+241,11333324,relation,39.9303273,-75.2275836,Woodland Avenue & 60th Street
+242,11333325,relation,39.9324175,-75.2246093,Woodland Avenue & 58th Street
+243,11333326,relation,39.933395,-75.223224,Woodland Avenue & 57th Street
+244,11333327,relation,39.9344497,-75.2217203,Woodland Avenue & 56th Street
+245,11333328,relation,39.9354161,-75.2203485,Woodland Avenue & 55th Street
+246,11333329,relation,39.9363813,-75.2189776,Woodland Avenue & 54th Street
+247,11333330,relation,39.9373526,-75.2176052,Woodland Avenue & 53rd Street
+248,11333331,relation,39.9383434,-75.2161979,Woodland Avenue & 52nd Street
+249,11333332,relation,39.9391004,-75.215113,Woodland Avenue & 51st Street
+250,11333333,relation,39.9151588,-75.2403693,Elmwood Avenue & 72nd Street
+251,11333334,relation,39.9161179,-75.2390044,Elmwood Avenue & 71st Street
+252,11333335,relation,39.9172193,-75.2374348,Elmwood Avenue & 70th Street
+253,11333336,relation,39.9182591,-75.2359607,Elmwood Avenue & 69th Street
+254,11333337,relation,39.9193482,-75.2344082,Elmwood Avenue & 68th Street
+255,11333338,relation,39.9204149,-75.2328941,Elmwood Avenue & 67th Street
+256,11333339,relation,39.9213407,-75.2315811,Elmwood Avenue & 66th Street
+257,11333340,relation,39.9222168,-75.2303376,Elmwood Avenue & 65th Street
+258,11333341,relation,39.9230864,-75.2290992,Elmwood Avenue & 64th Street
+259,11333342,relation,39.9240399,-75.2277419,Elmwood Avenue & 63rd Street
+260,11333343,relation,39.9249639,-75.2264248,Elmwood Avenue & 62nd Street
+261,11333344,relation,39.9260711,-75.2248488,Elmwood Avenue & 61st Street
+262,11333345,relation,39.9280798,-75.2219899,Elmwood Avenue & 59th Street
+263,11333346,relation,39.9290556,-75.2206029,Elmwood Avenue & 58th Street
+264,11333347,relation,39.9300183,-75.219235,Elmwood Avenue & 57th Street
+265,11333348,relation,39.9267555,-75.2238784,Elmwood Avenue & Edgewood Street
+266,11333349,relation,39.9310777,-75.2177302,Elmwood Avenue & 56th Street
+267,11333350,relation,39.9323472,-75.2163578,Lindbergh Boulevard & Wheeler Street
+268,11333351,relation,39.93351,-75.2155628,Lindbergh Boulevard & 54th Street
+269,11333352,relation,39.9352088,-75.2143838,Lindbergh Boulevard & 53rd Street
+270,11333353,relation,39.9369958,-75.2123849,Grays Avenue & 51st Street
+271,11333354,relation,39.9382636,-75.2104752,Grays Avenue & 49th Street
+272,11333355,relation,39.9398615,-75.2113968,49th Street & Paschall Avenue
+273,11333356,relation,39.9073692,-75.2414758,Island Avenue & 76th Street
+274,11333357,relation,39.9039698,-75.2404004,Island Avenue & Lindbergh Boulevard
+275,11333358,relation,39.9092677,-75.2420771,Island Avenue & Tanager Street
+276,11333359,relation,39.9110697,-75.2426492,Island Avenue & Buist Avenue
+277,11333360,relation,39.9134598,-75.2427774,Elmwood Avenue & Island Avenue
+278,11333597,relation,39.9300954,-75.2337708,Kingsessing Avenue & 62nd Street
+279,11333598,relation,39.9311117,-75.2323277,Kingsessing Avenue & 61st Street
+280,11333599,relation,39.9325367,-75.2303692,Kingsessing Avenue & 60th Street
+281,11333600,relation,39.9336794,-75.2314245,Chester Avenue & 60th Street
+282,11333601,relation,39.9347805,-75.22992,Chester Avenue & 59th Street
+283,11333602,relation,39.9357333,-75.2285694,Chester Avenue & 58th Street
+284,11333603,relation,39.9367097,-75.2271719,Chester Avenue & 57th Street
+285,11333604,relation,39.937769,-75.225664,Chester Avenue & 56th Street
+286,11333605,relation,39.9387342,-75.2243026,Chester Avenue & 55th Street
+287,11333606,relation,39.9396952,-75.2229268,Chester Avenue & 54th Street
+288,11333607,relation,39.9406635,-75.2215518,Chester Avenue & 53rd Street
+289,11333608,relation,39.9416426,-75.2201582,Chester Avenue & 52nd Street
+290,11333609,relation,39.9424278,-75.2190356,Chester Avenue & 51st Street
+291,11333610,relation,39.944194,-75.2165283,Chester Avenue & 49th Street
+292,11333611,relation,39.9450707,-75.2152837,Chester Avenue & 48th Street
+293,11333612,relation,39.9459827,-75.2139859,Chester Avenue & 47th Street
+294,11333613,relation,39.9468947,-75.2126846,Chester Avenue & 46th Street
+295,11333614,relation,39.9478041,-75.2113907,Chester Avenue & 45th Street
+296,11333615,relation,39.9484123,-75.2090639,Chester Avenue & 43rd Street
+297,11333621,relation,39.9290335,-75.2409253,65th Street & Belmar Street
+298,11333622,relation,39.9287397,-75.238554,65th Street & Chester Avenue
+299,11333623,relation,39.9279441,-75.237042,Kingsessing Avenue & 65th Street
+300,11340413,relation,39.9702025,-75.1304535,Girard Avenue & Columbia Avenue
+301,11340414,relation,39.9709071,-75.1284289,Girard Avenue & Palmer Street
+302,11340415,relation,39.9717846,-75.1259068,Girard Avenue & Berks Street
+303,360474334,node,39.9478543,-75.1903505,Penn Medicine
+332,775922748,node,40.0015922,-75.1528751,Allegheny
+333,775922749,node,39.9946558,-75.1543919,North Philadelphia
+335,775922752,node,39.9714988,-75.1594598,Girard
+337,775922755,node,39.9624091,-75.1614309,Spring Garden
+344,1118107614,node,40.0418091,-75.1368239,Fern Rock Transportation Center
+368,3663519582,node,39.946224,-75.1396331,Penn’s Landing RiverLink Ferry Landing
+376,5372039290,node,39.9512871,-75.1535469,8th & Market
+384,5377316453,node,39.9531287,-75.1642021,City Hall
+414,10316885647,node,39.9527289,-75.181964,Megabus
+416,60425675,way,40.0237284,-75.0787814,SEPTA Frankford Transportation Center
+417,87326583,way,39.9528483,-75.1570488,Greyhound Terminal
+418,100911873,way,40.0149264,-75.2074329,Wissahickon Transportation Center
+421,644946514,way,39.9919601,-75.1860037,SEPTA 33rd & Dauphin Bus Terminal
+422,963721321,way,39.9841067,-75.0997552,Richmond-Westmoreland Streets Loop
